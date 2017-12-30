@@ -1,12 +1,16 @@
-# numpy_extension_ny1.13.1_py3.6
-A simple numpy extension example
+# Introduction
+This is a simple example for numpy native extension.
 
-Compile environment:
-python 3.6
-numpy 1.13.1
+# Working environment:
+* python 3.6
+* numpy 1.13.1
 
-To install:
+# To install:
 python setup.py install
 
-To run test:
+# To run test:
 python test.py
+
+# Userful links:
+* https://docs.scipy.org/doc/numpy-1.13.0/reference/
+* https://docs.python.org/3/extending/index.html
